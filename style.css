@@ -18,6 +18,14 @@
         background-color: rgb(34, 32, 38);
     }
     
+    table{
+        border: 1px solid black;
+    }
+
+    td{
+        border: 1px solid red;
+    }
+
     main {
         color: rgb(34, 32, 38);
         padding: 8px 16px;
