@@ -18,6 +18,10 @@ footer {
   background-color: rgb(34, 32, 38);
 }
 
+span{
+    color: green;
+}
+
 table {
   border: 1px solid black;
 }
